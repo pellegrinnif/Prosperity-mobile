@@ -17,7 +17,7 @@ O aplicativo permite ainda que a comunidade que participa de um projeto possa co
 
 ---------------------------------------------------
 
-Prosperity Project (Watch the video Prosperidade#1.mp4)
+Prosperity Project (Watch the video Prosperidade#1.mp4 while read the text below).
 
 Communities within cities are faced with difficulties of various natures and often wait for solutions to be implemented by the power public at some point.
 

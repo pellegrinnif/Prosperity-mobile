@@ -1,6 +1,6 @@
 # Projeto Prosperidade para mobile app / Prosperity Project for mobile app
 
-Projeto Prosperidade
+Projeto Prosperidade (Assista ao vídeo Prosperidade#1.mp4)
 
 As comunidades dentro das cidades brasileiras se deparam com dificuldades de diversas naturezas e frequentemente aguardam que as soluções sejam implementadas pelo poder público em algum momento.
 Sabe-se entretanto que dentro das próprias comunidades existem potencialmente recursos e pessoas com competências e habilidades para solucionar as dificuldades. O grande desafio de fato é encontrar essas pessoas nas comunidades que têm as habilidades e a disponibilidade para implementar as soluções para o bem comum.
@@ -17,7 +17,7 @@ O aplicativo permite ainda que a comunidade que participa de um projeto possa co
 
 ---------------------------------------------------
 
-Prosperity Project
+Prosperity Project (Watch the video Prosperidade#1.mp4)
 
 Communities within cities are faced with difficulties of various natures and often wait for solutions to be implemented by the power public at some point.
 
